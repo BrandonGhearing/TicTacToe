@@ -1,0 +1,27 @@
+#body {
+    background-color: aqua;
+}
+#canvas {
+  display: block;
+    position: absolute;
+    top: 200px;
+    left: 760px;
+
+}
+#h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+#playAgain {
+    margin-top: auto;
+}
+
+#welcome {
+    text-align: center;
+    font-size: 25px;
+}
+
+#playAgain {
+    display: flex;
+    justify-content: center;
+}
